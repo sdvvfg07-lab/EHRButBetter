@@ -16,6 +16,7 @@
         <Configurations>Debug;Release;Android</Configurations>
         <Platforms>AnyCPU</Platforms>
         <RepositoryUrl>https://github.com/Gurge44/EndlessHostRoles</RepositoryUrl>
+        <Version>7.0.0</Version>
     </PropertyGroup>
 
     <ItemGroup>
